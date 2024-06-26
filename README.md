@@ -5,7 +5,8 @@
 
 在原本的地圖裡重新分色並設立1+4站點，視覺上能更容易尋找想要的路線。並已畫好在規劃中未開放的路線。
 此地圖為雙語使用者製作, 版權為黎皓陽個人所有。設計時有參考臺北捷運和東京メトロ站圖。
-![工作區域 1](https://github.com/Hyman98/KLTransit-Map/assets/137241717/c555e5c7-da8c-41d1-aef7-848b3887f437)
+![Artboard 1](https://github.com/Hyman98/KLTransit-Map/assets/137241717/0f8946a1-0414-43be-9fa8-46deb1905404)
+
 
 # 說明
 
@@ -67,4 +68,4 @@
 
 最新和最多改動的可以在Google Drive裡查閱，建議使用線上預覽以隨時查看最新版本。一般上這裡會在穩定之後才上載穩定版。
 
-https://drive.google.com/file/d/1Y9K8Ou9SmLrugNMcb74aCtkX4RhPT44V/view?usp=sharing
+[https://drive.google.com/file/d/1Y9K8Ou9SmLrugNMcb74aCtkX4RhPT44V/view?usp=sharing](https://drive.google.com/file/d/15THajQuBeBhs_a-6JtUOyJZbLTJlt9-v/view?usp=sharing)
